@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Pythongenerator
-- 👀 I’m interested in Python, C++ with a focus on Data science, Finance and AI & ML.
-- 🌱 I’m currently learning C++, AI/ML, pyspark & dask
-- 💞️ I’m looking to collaborate on open source projects, data science, focus on finance (given that I have 5 years of experience as an Investment analyst)
+- 👋 Hi, I’m Manula Vishvajith
+- 👀 I’m interested in Python and .NET with a focus on Data science, Finance and AI & ML.
+- 💞️ I’m looking to collaborate on open source projects, data science, focus on finance
 - - 📫 How to reach me ...
 
 <!---
